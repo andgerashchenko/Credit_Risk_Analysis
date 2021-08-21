@@ -16,3 +16,5 @@ Almost all the values shows perceptible increase. Accuracy score - 0.78, recall 
 And at last we can see slightly growth of precision for high risk, which is 0.03 now.
 - The last model we used is [Easy Ensemble AdaBoost Classifier](https://github.com/andgerashchenko/Credit_Risk_Analysis/blob/master/Resources/Easy%20Ensemple%20Classifier.png), which combined 100 estimators. And this time our model proved to be reliable. 
 Accuracy score - 0.92, Precision - 0.08 and 1.0, Recall - 0.91 and 0.94 for high and low risk accordingly.
+
+Summarizing all the results of used machine learning models we can assume that for this particular type of data ensemble learning models are more suitable, especially Easy Ensemble AdaBoost Classifier. However we can continue trying other models and maybe find better fit, polishing results by fine tune of Easy Ensemble parameters could be more effective. 
