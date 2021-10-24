@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis
 
 The purpose of the analysis is to find the most accurate machine learning model by test them over the same data set. 
 
